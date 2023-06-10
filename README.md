@@ -1,5 +1,5 @@
 ### Howdy!!
-## Wecome to my github profile
+### Wecome to my github profile
 
 <!--
 **varshanipreddy/varshanipreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

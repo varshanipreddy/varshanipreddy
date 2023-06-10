@@ -1,11 +1,12 @@
-### Hi there 👋
+### Howdy!!
+## Wecome to my github profile
 
 <!--
 **varshanipreddy/varshanipreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently a student 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a student at the Texas A&M University at College Station
+-  👩‍🎓Finished my Bachelors from National Institute of Techology Raipur
+- 🌱 I worked for a couple of years at Huawei Technologies India on Bigdata(Hadoop Hive) and Machine Learning
+- 👯 I’m looking to collaborate on possibly any project which is cool and inetresting
+- 📫 How to reach me: varshanipreddy@gmail.com
+- ⚡ Fun fact: I'm into formula 1 🏎️ , team Mercedes 🤓

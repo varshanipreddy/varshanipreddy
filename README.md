@@ -1,23 +1,10 @@
 ### Howdy 🤠!
 #### Wecome to my github profile..
 
-<!--
-**varshanipreddy/varshanipreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a student 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently a student at the Texas A&M University at College Station
--  👩‍🎓Finished my Bachelors from National Institute of Techology Raipur
-- 🌱 I worked for a couple of years at Huawei Technologies India on Bigdata(Hadoop Hive) and Machine Learning
-- 👯 I’m looking to collaborate on possibly any project which is cool and inetresting
-- 📫 How to reach me: varshanipreddy@gmail.com
-- ⚡ Fun fact: I'm into formula 1 🏎️ , team Mercedes 🤓
+🎓 I'm currently a student at Texas A&M University, College Station, pursuing my Masters degree in Computer Science.
+🎓 I completed my Bachelor's degree from the National Institute of Technology Raipur.
+👩‍💻 Previously, I worked for a couple of years at Huawei Technologies India, focusing on Big Data (Hadoop Hive) and Machine Learning.
+🌱 I'm passionate about exploring new technologies and learning cool stuff.
+🤝 I'm looking to collaborate on interesting projects that challenge me and expand my skills.
+📫 You can reach me at [varshanipreddy@gmail.com](mailto:varshanipreddy@gmail.com). Feel free to connect with me!
+⚡ Fun fact: I'm a huge Formula 1 fan, and my favorite team is Mercedes! 🏎️🏆

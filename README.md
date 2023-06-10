@@ -1,6 +1,7 @@
 ### Howdy 🤠!
 #### Wecome to my github profile..
 
+
 🎓 I'm currently a student at Texas A&M University, College Station, pursuing my Masters degree in Computer Science.
 
 🎓 I completed my Bachelor's degree from the National Institute of Technology Raipur.

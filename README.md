@@ -4,7 +4,7 @@
 
 🎓 I'm currently a student at Texas A&M University, College Station, pursuing my Masters degree in Computer Science.
 
-🎓 I completed my Bachelor's degree from the National Institute of Technology Raipur.
+🎓 I completed my Bachelor's degree in Computer Science and Engineering from the National Institute of Technology Raipur.
 
 👩‍💻 Previously, I worked for a couple of years at Huawei Technologies India, focusing on Big Data (Hadoop Hive) and Machine Learning.
 
